@@ -1,0 +1,154 @@
+>> Eletrônica Digital - Numeração
+
+  Conversão de decimal para o binário divid-se por 2 até que o último quociente seja 1. Os restos das divisões e o último quociente equivale
+  o número binário:
+
+    23/2 -> 11 com resto 1
+    11/2 -> 5 com resto 1
+    5/2 -> 5 com resto 1
+    2/2 1 com resto 0
+
+    10 / 3
+   -09   ³ 
+   --------
+    01 -> resto
+
+>> Portas Lógicas
+
+-> Porta Lógica OR
+
+  Pode ter duas ou mais entradas e uma saída
+  A saída será somente 1
+
+  S = A * B
+
+-> Porta Lógica NOT
+
+  Uma entrada e uma saída
+  É um inversor lógico
+
+-> Porta Lógica NAND e NOR
+
+  Lógica contrária da AND e lógica contrária da OR
+
+  NAND: S = A * B
+  NOR = S = A + B
+
+##################################################################### + #####################################################################
+
+ATIVIDADES 01
+
+1. Qual a diferença entre eletrônica digital e analógica?'
+  Resposta:
+  Analógica: Trabalha com sinais contínuos, que podem assumir qualquer valor dentro de um intervalo;
+  Digital: Trabalha com sinais discretos, normalmente representados e 0 e 1.
+
+2. Converta para decimal:
+
+a) 10010
+  Resolução:
+  0*2(0) = 0
+  1*2(1) = 2
+  0*2(2) = 0
+  0*2(3) = 0
+  1*2(4) = 16
+
+  0 + 2 + 0 + 0 + 16 = 18
+
+  Resultado: 10010 convertido para decimal é 18.
+
+b) 11011
+  Resolução:
+  1*2(0) = 1
+  1*2(1) = 2
+  0*2(2) = 0
+  1*2(3) = 8
+  1*2(4) = 16
+
+  0 + 2 + 0 + 8 + 16 = 27
+
+  Resultado = 11011 convertido para decimal é 27.
+
+c) 101101
+  Resolução:
+  1*2(0) = 1
+  0*2(1) = 0
+  1*2(2) = 4
+  1*2(3) = 8
+  0*2(4) = 0
+  1*2(5) = 32
+
+  1 + 0 + 4 + 8 + 0 + 32 = 45
+
+  Resultado = 101101 convertido para decimal é 45.
+
+d) 111000
+  Resolução:
+  0*2(0) = 0
+  0*2(1) = 0
+  0*2(2) = 0
+  1*2(3) = 8
+  1*2(4) = 16
+  1*2(5) = 32
+
+  0 + 0 + 0 + 8 + 16 + 32 = 56
+
+  Resultado = 111000 convertido para decimal é 56.
+
+e) 100111
+  Resolução:
+  1*2(0) = 1
+  1*2(1) = 2
+  1*2(2) = 4
+  0*2(3) = 0
+  0*2(4) = 0
+  1*2(5) = 32
+
+  1 + 2 + 4 + 0 + 0 + 32 = 39
+
+  Resultado = 100111 convertido para decimal é 39.
+
+3. Converta para binário:
+
+a) 5
+  Resolução:
+  5/2 -> 2 com resto 1
+  2/2 -> 1 com resto 0
+  1/2 -> 0 com resto 1
+  Resultado = 5 convertido para binário é 101.
+  
+b) 12
+  Resolução:
+  12/2 -> 6 com resto 0
+  6/2 -> 3 com resto 0
+  3/2 -> 1 com resto 1
+  1/2 -> 0 com resto 1
+  Resultado = 12 convertido para binário é 1100.
+  
+c) 19
+  Resolução:
+  19/2 -> 9 com resto 1
+  9/2 -> 4 com resto 1
+  4/2 -> 2 com resto 0
+  2/2 -> 1 com resto 0
+  1/2 -> 0 com resto 1
+  Resultado = 19 convertido para binário é 10011.
+
+d) 33
+  Resolução:
+  33/2 -> 16 com resto 1
+  16/2 -> 8 com resto 0
+  8/2 -> 4 com resto 0
+  4/2 -> 2 com resto 0
+  2/2 -> 1 com resto 0
+  1/2 -> 0 com resto 1
+  Resultado = 33 convertido para binário é 100001.
+  
+e) 50
+  50/2 -> 25 com resto 0
+  25/2 -> 12 com resto 1
+  12/2 -> 6 com resto 0
+  6/2 -> 3 com resto 0
+  3/2 -> 1 com resto 1
+  1/2 -> 0 com resto 1
+  Resultado = 50 convertido para binário é 110010.
