@@ -1,0 +1,24 @@
+>> Portas Lógicas
+
+  As portas lógicas são a base da eletrônica digital, permitindo a realização de operações lógicas fundamentais.
+
+-> Definição de Portas Lógicas
+
+  As portas lógicas são dispositivos eletrônicos que realizam operações booleanas em sinais de entrada. Elas são fundamentais para a construção de circuitos digitais,
+  permitindo a execução de funções lógicas complexas a partir de sinais binários.
+
+-> Importância de Portas Lógicas
+
+  São essenciais em diversos dispositivos digitais, como computadores, smarthphones e sistemas de automação. Elas possibilitam a realização de operações como adição,
+  subtração e comparação, sendo a base da lógica computacional.
+
+-> Diferenças entre Eletrônica Digital e Analógico
+
+  Analógico é contínuo e digital é linear. Imagine que o analógico é uma onda que muda constantemente, por exemplo um analógico de um controle de videogame.
+  Enquanto o digital é apenas uma linha reta, que quebra quando sua função é acionada, e ela volta ao seu estado original, por exemplo um botão de um controle,
+  que ao pressionar-lo ele é acionado, porém ao soltar ele volta à permanecer "desativado".
+
+>> Microcontroladores
+
+  Microcontoladores são dispositivos integrados que utilizam portas lógicas para executar comandos e controlas sistemas.
+  eles são amplamente usados em automação, dispositivos portáteis e eletrodomésticos inteligentes.
