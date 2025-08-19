@@ -30,13 +30,62 @@
 1) Converta os binários para decimal
 
 a) 1010
-
-Resposta: 
+Resposta: 10 [CERTO]
 
 b) 1111
+Resposta: 14 [ERRADO]
+Correção: 
+1×8 = 8
+1×4 = 4
+1×2 = 2
+1×1 = 1
+Soma = 8 + 4 + 2 + 1 = 15
 
 c) 100101
+Resposta: 36 [ERRADO]
+Correção:
+1×32 = 32
+0×16 = 0
+0×8 = 0
+1×4 = 4
+0×2 = 0
+1×1 = 1
+Soma = 32 + 0 + 0 + 4 + 0 + 1 = 37
 
 d) 110010
+Resposta: 0 + 4 + 0 + 0 + 16 + 32 = 52 [ERRADO]
+Correção:
+1×32 = 32
+1×16 = 16
+0×8 = 0
+0×4 = 0
+1×2 = 2
+0×1 = 0
+Soma = 32 + 16 + 0 + 0 + 2 + 0 = 50
 
 e) 1011011
+Resposta: 0 + 2 + 4 + 8 + 0 + 32 = 46
+Correção:
+1×64 = 64
+0×32 = 0
+1×16 = 16
+1×8 = 8
+0×4 = 0
+1×2 = 2
+1×1 = 1
+Soma = 64 + 0 + 16 + 8 + 0 + 2 + 1 = 91
+
+2) Converta os decimal para Binário
+
+a) 12
+Resposta: 10100
+
+b) 25
+Resposta: 101001
+
+c) 50
+Resposta: 1010010
+
+d) 73
+
+e) 100
