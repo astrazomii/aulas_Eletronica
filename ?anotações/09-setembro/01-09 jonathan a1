@@ -55,3 +55,53 @@
   IBM DB2;
   SQLite;
   MariaDB.
+
+-> Como é um sistema completo de banco de dados?
+
+  Usuários
+  Aplicativos de Acesso
+  SGBD
+  Banco de Dados
+
+-> Profissionais que trabalham com o SGBD
+
+  Administrador de BD:
+    Responsável por autorizar o acesso ao banco de dados e coordenar e monitorar seu uso.
+  Projetista/Desenvolvedor de BD:
+    Reponsável pela identificação dos dados a serem armazenados no banco de dados; por escolher estruturas apropriadas para representar
+    e armazenar tais dados.
+  Usuários Finais
+  Analistas de Sistemas e Dsenvolvedores de Software
+
+-> Características
+
+  Controle de Redundancia
+  multipla visoes de dados
+  controle de concorrencia
+  backup e restauracao
+  autenticaçao e autorizaçao de acesso
+  restriçoes de integridade
+
+-> Modelo em Rede
+
+  Os dados são organizados em tipos e ligações entre dois registros;
+  Não há restrições hierárquicas;
+  Tanto o esquema, quanto ocorrências de dados são visualizados como um grafo.
+
+-> Entidade
+
+  Representam as estruturas de arazenamento de dados (arquivos) dos sistemas.
+
+-> Visões do BD
+
+  Externa: É aquela vista pelo usuário que opera os sistemas aplicativos, através de interfaces desenvolvidas pelo analista (
+
+  Conceitual: É aquela vista pelo anaista de desenvolvimento e pelo administrador das bases de dados. Existe a preocupaçã  na
+  definição de normas e procedimentos para manipulação dos dados,
+
+-> ACID
+
+  Afomicidade: dados completos, 
+  Consistência: dados coerentes, 
+  Isolamento: evita inconsistências,
+  e Durabilidade.
