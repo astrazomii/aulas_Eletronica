@@ -39,3 +39,19 @@
   Possui um grupo de usuários e algumas aplicações concebidas para atener a esses usuários;
   Qualquer mudança na realidad, provocará mudanças nessa base de dados.
 
+>> SGBD
+  SGBD é um software cuja finalidade de gerencias as informalçoes de um banco de dados
+  (também chmada de base de dados) e que também devem organizar, acessar, controlar e proteger as informações
+  contidas do usuário.
+
+  É uma coleção de softwares que permitem ao usuário definir, construir e manipular bases de dado para as mais diversas finalidades.
+
+-> Exemplos de SGBDs
+
+  Oracle Database;
+  MySQL;
+  Microsoft SQL Server;
+  PostgreSQL;
+  IBM DB2;
+  SQLite;
+  MariaDB.
