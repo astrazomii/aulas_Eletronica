@@ -1,0 +1,41 @@
+>> Banco de Dados: O que são Banco de Dados?
+
+  Um arquivo ou um conjunto de arquivos que armazena dados.
+  Representa o arquivo físico de dados, armaenado em dispositivos periféricos, onde estão armazenados 
+  os dados de diversos sitemas, para consulta e atualização pelo usuário.
+
+  É composto por diversos objetos, tais como: tabelas, esquemas, visões, consultas, relatórios, procedimentos,
+  triggers, entre outros.
+
+-> O que eu posso fazer com um Banco de Dados?
+
+  Sistemas bancários;
+  Reserva em hotéis;
+  Controle de estoque em supermercados;
+  Catálogo de livros em bibliotecas;
+  E-commerce;
+  Receita Federal;
+  Youtube.
+
+-> Percebe a importância dos Dados?
+
+  São ativos de uma empresa.
+  Ter um profissional que saiba manipular esse ativo é algo de valor inestimável à emprega.
+
+-> Por que utilizar Banco de Dados?
+
+  Padronização do acesso;
+  Segurança do acesso;
+  Integridade das informações (Validação / Duplicatas);
+  Escalabilidade (Possibilidade de expansão);
+  Trabalho em equipe.
+
+-> Propriedades dos bancos de dados
+
+  Um BD é a representação de algum aspecto do mundo real;
+  Um BD é uma coleção de dados logicamente relacionados, com algum significado;
+  De modo que associações aleatórias de dados não possam ser chamadas de bases de dados;
+  Um BD é projetado, construído e preenchido com dados para um propósito específico;
+  Possui um grupo de usuários e algumas aplicações concebidas para atener a esses usuários;
+  Qualquer mudança na realidad, provocará mudanças nessa base de dados.
+
